@@ -379,7 +379,7 @@ This is a lab, so some choices favour simplicity. In a real environment:
 
 ## Author
 
-**Mehdi** · Cyber Defense Administrator Trainee · Casablanca, Morocco
+**0xEmhddsi-Net** · Cyber Defense Administrator Trainee · Morocco
 [GitHub: 0xEmhddsi-Net](https://github.com/0xEmhddsi-Net) · CompTIA Security+
 
 Built during the **Skillslab by DataProtect** program, in partnership with **Jobintech**.
