@@ -15,7 +15,7 @@
 ![Windows Server](https://img.shields.io/badge/Windows_Server-AD_DS_%7C_AD_CS_%7C_RDS-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-13-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![LDAPS](https://img.shields.io/badge/LDAPS-636_(not_LDAP)-2E7D32?style=flat-square)
-![Lab](https://img.shields.io/badge/type-home_lab-555?style=flat-square)
+
 
 </div>
 
